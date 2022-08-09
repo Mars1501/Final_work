@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\bin\Debug\net6.0\end_project.exe
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\bin\Debug\net6.0\end_project.deps.json
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\bin\Debug\net6.0\end_project.runtimeconfig.json
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\bin\Debug\net6.0\end_project.dll
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\bin\Debug\net6.0\end_project.pdb
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.AssemblyInfo.cs
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.dll
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\refint\end_project.dll
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.pdb
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\end_project.genruntimeconfig.cache
+C:\Users\Денис\Desktop\homework\Final_Work\end_project\obj\Debug\net6.0\ref\end_project.dll
